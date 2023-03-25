@@ -1,0 +1,34 @@
+li{
+    display: inline-block
+    
+}
+.ul1{
+    justify-content: space-around;
+    margin-right: 300px;
+    width: 300px;
+}
+.ul2{
+    margin-left: 500px;
+}
+header{
+    display: flex;
+    width: 100%;
+}
+.li1{
+    margin-bottom: 5px;
+    margin-left: 2px;
+    font-size: 45px;
+    font-family: monospace;
+}
+.div1{
+    background-color: brown;
+    color: white;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.aaa{
+    color: white;
+}
+body{
+    margin: 0;
+}
